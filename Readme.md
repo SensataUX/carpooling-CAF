@@ -1,7 +1,7 @@
 # Proyecto CAF TUMI - Movilidad Compartida en Bogotá   <img src="assets/sensata-small-logo-round.png" align="right" width="120" />
 ## Oportunidades y estrategías para incentivar el carro compartido en Bogotá
 ***
-Este proyecto se realizó en el marco de la consultoría para el desarrollo de un ejercicio técnico de valor añadido a los pilotos de movilidad compartida en Bogotá realizada por [Sensata UX Research]([httpssensata.io](https://sensata.io). Con base en un diagnóstico de las barreras y facilitadores para la adopción del carro compartido en Bogotá, se desarrolló una estrategia de comunicación para la influencia en el comportamiento, una estrategia de fiscalización y control, y una hoja de ruta para el fomento del carro compartido en la ciudad entre 2023 y 2038.
+Este proyecto se realizó en el marco de la consultoría para el desarrollo de un ejercicio técnico de valor añadido a los pilotos de movilidad compartida en Bogotá realizada por [Sensata UX Research](https://sensata.io). Con base en un diagnóstico de las barreras y facilitadores para la adopción del carro compartido en Bogotá, se desarrolló una estrategia de comunicación para la influencia en el comportamiento, una estrategia de fiscalización y control, y una hoja de ruta para el fomento del carro compartido en la ciudad entre 2023 y 2038.
 
 ## Tabla de contenidos
 ***
