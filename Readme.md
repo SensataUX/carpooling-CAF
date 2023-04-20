@@ -186,6 +186,12 @@ Los mensajes mantendrán un tono amigable e informativo, que sea positivo y alen
 *** 
 Los términos de referencia de esta consultoría contemplaban el diseño de una estrategia de fiscalización y control de la excepción por alta ocupación al Pico y Placa. Al inicio de la consultoría, esta excepción fue derogada, es decir, actualmente no hay ninguna norma que promueva el uso del carro compartido y requiera de fiscalización y control. Aún así, desarrollamos una estrategia para una eventual medida de carro compartido en Bogotá. Estas estrategias se basan en la información de la encuesta de carro compartido por Sensata y las entrevistas a agentes de tránsito civiles, agentes de la Dirección de Tránsito y Transportes de la Policía Nacional y funcionarios de la Secretaría Distrital de Movilidad.
 
+### Dinámicas de control durante la excepción de carro compartido
+
+#### Perspectiva de los agentes
+
+
+
 > EN CONSTRUCCIÓN
 
 ## Hoja de ruta carro compartido 2023-2038
